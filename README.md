@@ -8,4 +8,4 @@ Public documentation and privacy information for StageTakt on iPhone and iPad.
 
 Contact: dev@yutogemma.jp
 
-This repository contains only static documentation. It contains no application source，signing material，user library or audio. Purchases are handled within the iOS app through Apple In-App Purchase.
+This repository contains only static documentation. It contains no application source, signing material, user library or audio. Purchases are handled within the iOS app through Apple In-App Purchase.
